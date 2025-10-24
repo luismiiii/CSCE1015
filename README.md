@@ -1,6 +1,6 @@
 # CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
-"" EUID
+## EUID
 lmc0430
 
 ## Favorite Linux Command
